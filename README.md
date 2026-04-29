@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Satyesh 👋
 
-<!--
-**satyesh17/satyesh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Solution Architect | AWS + Multi-cloud
 
-Here are some ideas to get you started:
+I'm building production-grade AI systems with a focus on:
+- 🤖 **LLM Agents** — LangGraph, LlamaIndex, Instructor
+- ☁️ **Cloud-native AI** — AWS Bedrock, EKS, multi-cloud architectures
+- 🔍 **RAG & Vector Search** — Qdrant, OpenSearch
+- 📊 **LLM Observability & Eval** — Langfuse, RAGAS, DeepEval
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Currently working on
+- 📖 [ai-architect-journey](https://github.com/satyesh17/ai-architect-journey) — my daily learning log on the road to AI architect
+
+### 🛠 Tech I work with
+`Python` `LangGraph` `LlamaIndex` `FastAPI` `AWS` `Terraform` `Docker` `Kubernetes` `Ollama` `Qdrant`
+
+### 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/satyesh-anand-51185a3b3/
+- Email: satyesh.ricky@gmail.com
