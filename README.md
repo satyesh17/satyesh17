@@ -1,6 +1,6 @@
 # Hi, I'm Satyesh 👋
 
-### AI Solution Architect | AWS + Multi-cloud
+### AI Solution Architect | Agentic systems + security-first design | Ex-AWS networking
 
 I'm building production-grade AI systems with a focus on:
 - 🤖 **LLM Agents** — LangGraph, LlamaIndex, Instructor
